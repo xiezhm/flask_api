@@ -1,4 +1,4 @@
-# _*_enconding:utf-8_*_
+# _*_encoding:utf-8_*_
 
 
 import requests,json
