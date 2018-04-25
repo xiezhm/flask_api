@@ -1,4 +1,4 @@
-# _*_enconding:utf-8_*_
+# _*_encoding:utf-8_*_
 from flask import Flask,request,render_template,json
 
 app = Flask(__name__)
