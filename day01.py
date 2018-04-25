@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-# _*_conding:utf-8_*_
+# _*_coding:utf-8_*_
 from flask import Flask,render_template
 
 app = Flask(__name__)
